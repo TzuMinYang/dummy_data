@@ -1,0 +1,15 @@
+1.2.3.4
+123.231.124.152
+# XD
+### XDXD
+# o4ojdjd #
+# This is a comment line, ignore this
+# Blocklist for bad IPs and domains
+192.168.0.1
+sub.example.com
+# Another comment, this should also be ignored
+10.0.0.1
+malicious.example.net
+# Last comment before the end of the file
+127.0.0.1
+evilsite.com
