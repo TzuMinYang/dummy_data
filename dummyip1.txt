@@ -11,5 +11,9 @@ sub.example.com
 10.0.0.1
 malicious.example.net
 # Last comment before the end of the file
-127.0.0.1
+# 127.0.0.1
 evilsite.com
+testetes.com
+123.123.345.1
+123.123.123.123
+123.123.123.123
